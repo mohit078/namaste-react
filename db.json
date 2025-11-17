@@ -1,0 +1,169 @@
+{
+    "restList": [
+        {
+            "id": "29222",
+            "name": "Gupta Chat Corner",
+            "cloudinaryImageId": "cfifgwoppyaxkyfeel4f",
+            "locality": "Guru Nanak School",
+            "areaName": "Punjabi Bagh",
+            "costForTwo": "₹150 for two",
+            "cuisines": [
+                "North Indian",
+                "Snacks"
+            ],
+            "avgRating": 3.5,
+            "veg": true,
+            "parentId": "3653",
+            "avgRatingString": "4.3",
+            "totalRatingsString": "35K+",
+            "isOpen": true,
+            "isPromoted": false,
+            "type": "F",
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        {
+            "id": "51793",
+            "name": "Monga Pastry",
+            "cloudinaryImageId": "ggotmnuexemu73hx0c37",
+            "locality": "Vashisht Kumar Gulla Marg",
+            "areaName": "Punjabi Bagh",
+            "costForTwo": "₹150 for two",
+            "cuisines": [
+                "North Indian",
+                "Snacks",
+                "Desserts",
+                "Chinese"
+            ],
+            "avgRating": 4.1,
+            "veg": true,
+            "parentId": "4772",
+            "avgRatingString": "4.3",
+            "totalRatingsString": "35K+",
+            "isOpen": true,
+            "isPromoted": true,
+            "type": "F",
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        {
+            "id": "51754",
+            "name": "Kumar Pastry",
+            "cloudinaryImageId": "ggotmnuexemu73hx0c37",
+            "locality": "Vashisht Kumar Gulla Marg",
+            "areaName": "Punjabi Bagh",
+            "costForTwo": "₹150 for two",
+            "cuisines": [
+                "North Indian",
+                "Snacks",
+                "Desserts",
+                "Chinese"
+            ],
+            "avgRating": 4.3,
+            "veg": true,
+            "parentId": "4772",
+            "avgRatingString": "4.3",
+            "totalRatingsString": "35K+",
+            "isOpen": true,
+            "isPromoted": true,
+            "type": "F",
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        {
+            "id": "29227",
+            "name": "Gupta Chat Corner",
+            "cloudinaryImageId": "cfifgwoppyaxkyfeel4f",
+            "locality": "Guru Nanak School",
+            "areaName": "Punjabi Bagh",
+            "costForTwo": "₹150 for two",
+            "cuisines": [
+                "North Indian",
+                "Snacks"
+            ],
+            "avgRating": 4.5,
+            "veg": true,
+            "parentId": "3653",
+            "avgRatingString": "4.3",
+            "totalRatingsString": "35K+",
+            "isOpen": true,
+            "isPromoted": false,
+            "type": "F",
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        {
+            "id": "51753",
+            "name": "Everbake",
+            "cloudinaryImageId": "ggotmnuexemu73hx0c37",
+            "locality": "Vashisht Kumar Gulla Marg",
+            "areaName": "Punjabi Bagh",
+            "costForTwo": "₹150 for two",
+            "cuisines": [
+                "North Indian",
+                "Snacks",
+                "Desserts",
+                "Chinese"
+            ],
+            "avgRating": 4.1,
+            "veg": true,
+            "parentId": "4772",
+            "avgRatingString": "4.3",
+            "totalRatingsString": "35K+",
+            "isOpen": true,
+            "isPromoted": true,
+            "type": "F",
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        }
+    ],
+    "restDetails": [
+        {
+            "id": "51753",
+            "name": "Everbake",
+            "city": "Delhi",
+            "parentId": "4772",
+            "isPromoted": true,
+            "avgRatingString": "4.5",
+            "uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+            "cloudinaryImageId": "ggotmnuexemu73hx0c37",
+            "locality": "Vashisht Kumar Gulla Marg",
+            "areaName": "Punjabi Bagh",
+            "costForTwo": "50000",
+            "costForTwoMessage": "₹500 for two",
+            "cuisines": [
+                "North Indian",
+                "Snacks"
+            ],
+            "avgRating": 4.5,
+            "veg": true,
+            "feeDetails": {
+                "restaurantId": "51753"
+            },
+            "description": "'Dal makhani,shahi paneer,chana masala,boondi raita, 1pc paneer naan, 1pc Gobhi naan and salad'"
+        },
+        {
+            "id": "29227",
+            "name": "Gupta Chat Corner",
+            "cloudinaryImageId": "cfifgwoppyaxkyfeel4f",
+            "locality": "Guru Nanak School",
+            "areaName": "Punjabi Bagh",
+            "costForTwo": "₹150 for two",
+            "cuisines": [
+                "North Indian",
+                "Snacks"
+            ],
+            "avgRating": 4.5,
+            "veg": true,
+            "parentId": "3653",
+            "avgRatingString": "4.3",
+            "totalRatingsString": "35K+",
+            "isOpen": true,
+            "isPromoted": true,
+            "type": "F",
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+            "description": "'Papri, Golgappe, Dahi Bhalla, Green Salad, Pav Bhaji, Samosa, Kachori, Chole Kulche, Aloo Tikki, Rajma Chawal, Veg Thali'"
+        }
+    ]
+}
