@@ -9,6 +9,8 @@ import { createBrowserRouter, RouterProvider, Outlet } from "react-router-dom";
 import RestaurantDetails from "./src/components/RestraurantDetails";
 import UserClass from "./src/components/UserClass";
 import UserContext from "./src/utils/userContext";
+import { Provider } from "react-redux";
+import appStore from "./src/utils/appStore";
 
 const AppLayout = () => {
     const [userName, setUserName] = useState("");
@@ -20,13 +22,15 @@ const AppLayout = () => {
     }, [])
     return (
         // Providing context value to the entire app for user login name
-        <UserContext.Provider value={{ loggedInUser: userName, setUserName }}>
-            <div className="app">
-                <Header />
-                <Outlet />
-                <UserClass name="Mohit" location="New delhi" />
-            </div>
-        </UserContext.Provider>
+        <provider store={appStore}>
+            <UserContext.Provider value={{ loggedInUser: userName, setUserName }}>
+                <div className="app">
+                    <Header />
+                    <Outlet />
+                    <UserClass name="Mohit" location="New delhi" />
+                </div>
+            </UserContext.Provider>
+        </provider>
     )
 }
 

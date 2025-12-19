@@ -13,3 +13,13 @@
 - HTTPS 
 - Different build for Dev and Production
 - 
+
+# Redux Toolkit
+ - Install @reduxjs/toolkit
+ - Install react redux  
+ - Build our Store
+ - Connect our store to our App
+ - Slice(Cart slice)
+ - dispatch (Action)
+ - Selector
+ 
