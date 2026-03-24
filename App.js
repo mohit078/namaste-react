@@ -60,5 +60,9 @@ const appRouter = createBrowserRouter([
     },
 ]);
 
+const OldComp = () => (
+    <h1>Mohit here Old Component</h1>
+)
+
 const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(<RouterProvider router={appRouter} />);
+root.render([<RouterProvider router={appRouter} />, <OldComp />]);
